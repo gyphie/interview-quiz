@@ -1,0 +1,13 @@
+Describe (or draw) a normalized table structure for logging hours worked.
+	- Include a person record and records for hours worked for each person.
+	- Include whether the person is full time, part time, or contractor.
+	- Show primary keys, foreign keys and potential indexes.
+
+
+
+Write a SQL query against the tables from #3 to
+	1) get the total hours worked per full time employee
+	2) get the total hours worked for each contractor that worked more than 50 hours in the last 2 weeks
+
+
+
